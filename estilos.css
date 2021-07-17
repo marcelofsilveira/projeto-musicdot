@@ -11,7 +11,7 @@ p {
 
 body {
   font-family: "Helvetica", "Lucida Grande", sans-serif;
-  border-top: 1px solid #;
+  border-top: 1px solid rgb(79, 43, 95);
   border: 1px solid red;
   background-image: url(img/matriz-musicdot.png);
   background-repeat: no-repeat;
