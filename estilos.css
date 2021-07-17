@@ -1,27 +1,30 @@
 p {
   color: blue;
-  background-color: yellow;
+  background-color: red;
+  height: 300px;
+  width: 300px;
   text-align: left;
   text-decoration: underline;
-  line-height: 10px; /* tamanho da altura de cada linha */
+  line-height: 30px; /* tamanho da altura de cada linha */
   letter-spacing: 3px; /* tamanho do espaço entre cada letra */
   word-spacing: 5px; /* tamanho do espaço entre cada palavra */
-  text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+  text-indent: 50px; /* tamanho da margem da primeira linha do texto */
+
+  padding: 10px 20px 15px 10px;
+  margin: 10px;
+
 }
 
 body {
   font-family: "Helvetica", "Lucida Grande", sans-serif;
   border-top: 1px solid rgb(79, 43, 95);
   border: 1px solid red;
-  background-image: url(img/matriz-musicdot.png);
-  background-repeat: no-repeat;
-  background-color: gold;
-  
+   
 }
 
 h1 {
-  border-top: 1px solid red; /* borda vermelha em cima */
-  border-right: 1px solid red; /* borda vermelha à direita */
-  border-bottom: 1px solid red; /* borda vermelha embaixo */
-  border-left: 1px solid red; /* borda vermelha à esquerda */
+  border-top: 1px solid rgb(38, 0, 255); /* borda vermelha em cima */
+  border-right: 1px solid rgb(255, 196, 0); /* borda vermelha à direita */
+  border-bottom: 1px solid rgb(81, 255, 0); /* borda vermelha embaixo */
+  border-left: 1px solid rgb(76, 0, 255); /* borda vermelha à esquerda */
 }
