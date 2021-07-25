@@ -1,0 +1,22 @@
+
+
+.produtos__titulo { /* Agora aqui eu sei que vou estilizar o título do painel de produtos. Mesmo se mudar para um h3 */
+  font-size: 40px;
+  font-weight: 800;
+ }
+
+.produtos__lista {
+  font-size: 20px;
+  font-weight: 300px;
+ }
+
+ p {
+  background-color: blue; 
+  width:30%; 
+}
+
+a {
+  background-color: red;
+  width: 60%;
+  display:inline-block;
+}
